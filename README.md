@@ -73,9 +73,7 @@ Feel free to explore these repositories to see my work in action!
 <img src="https://github-contributor-stats.vercel.app/api?username=None02Yards&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 <hr/>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=None02Yards&label=Profile%20Views&icon=5&color=6&pretty=true" />
-</a>
+
 
 </div>
 
