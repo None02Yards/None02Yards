@@ -95,7 +95,15 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email:** yourname@gmail.com  
+- <p align="left">
+  <a href="mailto:yourname@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
 - 💬 Open to collaborations, internships, and front-end projects
 
 ---
