@@ -86,9 +86,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=None02Yards&theme=radical&no-frame=false&no-bg=true&margin-w=4" 
-  />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=None02Yards&theme=github_dark" />
+
 </p>
 
 ---
