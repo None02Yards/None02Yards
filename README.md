@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Zohour
 
-💻 Front-End Developer | JavaScript Enthusiast | UI Builder  
-🚀 Focused on clean code, performance, and modern web experiences
 
 <p align="center">
   <img 
@@ -17,7 +15,9 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
+💻 Front-End Developer | JavaScript Enthusiast | UI Builder  
+🚀 Focused on clean code, performance, and modern web experiences
 
 - 🔭 **Currently working on:** Node.js & Angular projects
 - 🌱 **Learning:** Advanced JavaScript & Discord Bot development
