@@ -36,40 +36,53 @@
 <!-- TECH STACK SECTION -->
 <div align="center" style="margin: 40px 0;">
 
+<div align="center" style="margin: 40px 0;">
+
 ## 🧰 Tech Stack
 
-### 🧠 Core Foundations (Low-Level & Systems)
+### 🧠 Core Foundations
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash" />
+<a href="#" style="text-decoration:none;">
+  <span style="background:linear-gradient(135deg,#00599C,#004482);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">C</span>
+</a>
+
+<span style="background:linear-gradient(135deg,#333333,#111111);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Operating Systems</span>
+
+<span style="background:linear-gradient(135deg,#4EAA25,#2b7a0b);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Bash</span>
 </p>
 
 ### 🎨 Front-End
 <p>
-<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular" />
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3" />
+<span style="background:linear-gradient(135deg,#f7df1e,#c7b800);color:black;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">JavaScript</span>
+
+<span style="background:linear-gradient(135deg,#61dafb,#1b9cd8);color:black;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">React</span>
+
+<span style="background:linear-gradient(135deg,#dd0031,#a30021);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Angular</span>
+
+<span style="background:linear-gradient(135deg,#e34f26,#c13512);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">HTML5</span>
+
+<span style="background:linear-gradient(135deg,#1572b6,#0d4f80);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">CSS3</span>
 </p>
 
 ### 🗄️ Back-End & Databases
 <p>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql" />
+<span style="background:linear-gradient(135deg,#339933,#1f7a1f);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Node.js</span>
+
+<span style="background:linear-gradient(135deg,#4ea94b,#2d7a2d);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">MongoDB</span>
+
+<span style="background:linear-gradient(135deg,#4479A1,#2d5673);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">MySQL</span>
 </p>
 
-### ⚙️ Tools & DevOps
+### ⚙️ Tools
 <p>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions" />
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma" />
+<span style="background:linear-gradient(135deg,#f05032,#b52e1f);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Git</span>
+
+<span style="background:linear-gradient(135deg,#2671E5,#174ea6);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">GitHub Actions</span>
+
+<span style="background:linear-gradient(135deg,#f24e1e,#c63c14);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Figma</span>
 </p>
 
 </div>
-
 ---
 
 <!-- PROJECTS SECTION -->
