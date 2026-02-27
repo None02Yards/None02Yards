@@ -38,22 +38,30 @@
 
 ## 🧰 Tech Stack
 
-### Front-End
+### 🧠 Core Foundations (Low-Level & Systems)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash" />
+</p>
+
+### 🎨 Front-End
 <p>
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular" />
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3" />
 </p>
 
-### Back-End & Databases
+### 🗄️ Back-End & Databases
 <p>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb" />
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql" />
 </p>
 
-### Tools & DevOps
+### ⚙️ Tools & DevOps
 <p>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions" />
