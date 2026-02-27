@@ -38,49 +38,31 @@
 
 <div align="center" style="margin: 40px 0;">
 
+<div align="center">
+
 ## 🧰 Tech Stack
 
 ### 🧠 Core Foundations
-<p>
-<a href="#" style="text-decoration:none;">
-  <span style="background:linear-gradient(135deg,#00599C,#004482);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">C</span>
-</a>
-
-<span style="background:linear-gradient(135deg,#333333,#111111);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Operating Systems</span>
-
-<span style="background:linear-gradient(135deg,#4EAA25,#2b7a0b);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Bash</span>
-</p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Operating%20Systems-111111?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 ### 🎨 Front-End
-<p>
-<span style="background:linear-gradient(135deg,#f7df1e,#c7b800);color:black;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">JavaScript</span>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" />
 
-<span style="background:linear-gradient(135deg,#61dafb,#1b9cd8);color:black;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">React</span>
-
-<span style="background:linear-gradient(135deg,#dd0031,#a30021);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Angular</span>
-
-<span style="background:linear-gradient(135deg,#e34f26,#c13512);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">HTML5</span>
-
-<span style="background:linear-gradient(135deg,#1572b6,#0d4f80);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">CSS3</span>
-</p>
-
-### 🗄️ Back-End & Databases
-<p>
-<span style="background:linear-gradient(135deg,#339933,#1f7a1f);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Node.js</span>
-
-<span style="background:linear-gradient(135deg,#4ea94b,#2d7a2d);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">MongoDB</span>
-
-<span style="background:linear-gradient(135deg,#4479A1,#2d5673);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">MySQL</span>
-</p>
+### 🗄️ Back-End & DB
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" />
 
 ### ⚙️ Tools
-<p>
-<span style="background:linear-gradient(135deg,#f05032,#b52e1f);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Git</span>
-
-<span style="background:linear-gradient(135deg,#2671E5,#174ea6);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">GitHub Actions</span>
-
-<span style="background:linear-gradient(135deg,#f24e1e,#c63c14);color:white;padding:8px 16px;border-radius:20px;margin:4px;display:inline-block;font-weight:600;">Figma</span>
-</p>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions" />
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma" />
 
 </div>
 ---
