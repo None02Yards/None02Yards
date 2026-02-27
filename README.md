@@ -14,56 +14,85 @@
 </p>
 
 ---
+<!-- ABOUT SECTION -->
+<div align="center" style="margin: 40px 0;">
 
-##  About Me
+## 👋 About Me
+
 💻 Front-End Developer | JavaScript Enthusiast | UI Builder  
-🚀 Focused on clean code, performance, and modern web experiences
+🚀 Focused on clean code, performance, and modern web experiences  
 
-- 🔭 **Currently working on:** Node.js & Angular projects
-- 🌱 **Learning:** Advanced JavaScript & Discord Bot development
-- 💡 **Interested in:** Front-end performance, UI animations, clean UX
-- 🎮 **Hobbies:** Coding, tech blogs, video games, gymnastics 🤸‍♀️
+<br>
+
+🔭 **Currently working on:** Node.js & Angular projects  
+🌱 **Learning:** Advanced JavaScript & Discord Bot development  
+💡 **Interested in:** Front-end performance, UI animations, clean UX  
+🎮 **Hobbies:** Coding, tech blogs, video games, gymnastics 🤸‍♀️  
+
+</div>
 
 ---
+
+<!-- TECH STACK SECTION -->
+<div align="center" style="margin: 40px 0;">
 
 ## 🧰 Tech Stack
 
 ### Front-End
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+<p>
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3" />
+</p>
 
 ### Back-End & Databases
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql" />
+</p>
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
+<p>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions" />
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma" />
+</p>
+
+</div>
 
 ---
+
+<!-- PROJECTS SECTION -->
+<div align="center" style="margin: 40px 0; max-width: 800px;">
 
 ## 🖥️ Featured Projects
 
-- 🎮 **[Blocks Game](https://github.com/Zu34/Blocks-game-JS-)**  
-  JavaScript-based block stacking game with interactive gameplay
+🎮 **[Blocks Game](https://github.com/None02Yards/Blocks-game-JS-)**  
+JavaScript-based block stacking game with interactive gameplay  
 
-- 🎨 **[Dynamic JS Animation](https://github.com/Zu34/dynamic-js-animation-)**  
-  A set of smooth and dynamic animations built using pure JavaScript
+<br>
 
-- 🔢 **[Guessing Number Game](https://github.com/Zu34/GussingNumber-js)**  
-  Classic number guessing game focused on logic and user interaction
+🎨 **[Dynamic JS Animation](https://github.com/None02Yards/dynamic-js-animation-)**  
+A set of smooth and dynamic animations built using pure JavaScript  
 
-- 🧮 **[Bootstrap Calculator](https://github.com/Zu34/cal-bootstrap-js)**  
-  Responsive calculator built with Bootstrap and JavaScript
+<br>
 
-- 🌐 **[Float CSS Landing Page](https://github.com/Zu34/FLoat-css-full-Landing-page)**  
-  Full landing page layout using classic CSS float techniques
+🔢 **[Guessing Number Game](https://github.com/None02Yards/GussingNumber-js)**  
+Classic number guessing game focused on logic and user interaction  
 
----
+<br>
+
+🧮 **[Bootstrap Calculator](https://github.com/None02Yards/cal-bootstrap-js)**  
+Responsive calculator built with Bootstrap and JavaScript  
+
+<br>
+
+🌐 **[Float CSS Landing Page](https://github.com/None02Yards/FLoat-css-full-Landing-page)**  
+Full landing page layout using classic CSS float techniques  
+
+</div>
 
 ## 📊 GitHub Stats
 
